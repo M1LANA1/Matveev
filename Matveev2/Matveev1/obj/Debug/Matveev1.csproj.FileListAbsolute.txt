@@ -1,0 +1,11 @@
+C:\Users\Милана\source\repos\Matveev1\Matveev1\bin\Debug\Matveev1.exe.config
+C:\Users\Милана\source\repos\Matveev1\Matveev1\bin\Debug\Matveev1.exe
+C:\Users\Милана\source\repos\Matveev1\Matveev1\bin\Debug\Matveev1.pdb
+C:\Users\Милана\source\repos\Matveev1\Matveev1\obj\Debug\Matveev1.csproj.AssemblyReference.cache
+C:\Users\Милана\source\repos\Matveev1\Matveev1\obj\Debug\Matveev1.Form1.resources
+C:\Users\Милана\source\repos\Matveev1\Matveev1\obj\Debug\Matveev1.Properties.Resources.resources
+C:\Users\Милана\source\repos\Matveev1\Matveev1\obj\Debug\Matveev1.csproj.GenerateResource.cache
+C:\Users\Милана\source\repos\Matveev1\Matveev1\obj\Debug\Matveev1.csproj.CoreCompileInputs.cache
+C:\Users\Милана\source\repos\Matveev1\Matveev1\obj\Debug\Matveev1.exe
+C:\Users\Милана\source\repos\Matveev1\Matveev1\obj\Debug\Matveev1.pdb
+C:\Users\Милана\source\repos\Matveev1\Matveev1\obj\Debug\Matveev1.Form2.resources
